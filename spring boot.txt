@@ -1,0 +1,21 @@
+
+https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples
+
+Spring Boot中文文档（官方文档翻译 基于1.5.2.RELEASE） 
+   http://blog.geekidentity.com/spring/spring_boot_translation/
+
+SpringBoot非官方教程 | 第十五篇：Springboot整合RabbitMQ 
+   https://github.com/forezp/SpringBootLearning
+   http://blog.csdn.net/forezp/article/details/71023692
+SpringBoot之路
+  http://www.jianshu.com/c/7ac1a6814c56
+
+比较详细
+    http://412887952-qq-com.iteye.com
+  http://blog.csdn.net/linxingliang?viewmode=contents
+
+spring boot实战(第十二篇)整合RabbitMQ 
+  http://blog.csdn.net/liaokailin/article/details/49559571
+
+
+http://git.oschina.net/didispace/SpringBoot-Learning
